@@ -1,3 +1,1 @@
-#!/bin/bash
-
-echo "Hello World"
+<h1>Hello World form index.sh</h1>
