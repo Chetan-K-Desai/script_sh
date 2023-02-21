@@ -7,3 +7,4 @@ git add $var.sql && git commit -m "$var backup" && git push origin master
 
 rm -f git path/$var.sql
 
+echo "git master branch"
