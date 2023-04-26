@@ -1,4 +1,1 @@
-holt,develop
-exportservice,develop
-lmscouchbridgeapi,develop
-lmsmobilebookservice,develop
+repo,branch
