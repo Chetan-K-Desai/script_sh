@@ -1,0 +1,2 @@
+Ubuntu 64-bit\Ubuntu 64-bit.vmx
+newvm\newvm.vmx
