@@ -1,6 +1,7 @@
 $invocation = (Get-Variable MyInvocation).Value
 $directorypath = Split-Path $invocation.MyCommand.Path
 $path = $directorypath + '\path.txt'
+vmrun -T ws list | Select-Object -Skip 1 > $path
 $snapshot = Get-Date -Format "dd-MM-yyyy"
 $lin_num =  (Get-Content $path).Length
 
